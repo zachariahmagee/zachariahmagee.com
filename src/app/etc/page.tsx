@@ -7,7 +7,6 @@ export default function Etc() {
         <li>
           <Link 
             href='/etc/cv'
-            alt='professional resume/ cv'
             className={'mr-4 hover:bg-slate-500 hover:text-stone-200 hover:rounded p-3 md:mr-6'}
           >cv
           </Link>

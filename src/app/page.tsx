@@ -19,7 +19,7 @@ export default function Home() {
             <h1><strong>My name is Zach. This is my site.</strong></h1> 
             <br/>
             <p> 
-              I grew up in the forest, at times struggling to adapt to personhood.        
+              I grew up in the forest-- at times struggling to adapt to personhood, asking questions, and trying too hard. 
               I am a software engineer by trade, based in Bellingham, WA. Curiosity drives my development.
               I enjoy simple solutions to complex problems. I often find myself over-engineering something until I get frustrated, 
               walking away for the evening only to come back in the morning and resolve the problem with a few key strokes.
