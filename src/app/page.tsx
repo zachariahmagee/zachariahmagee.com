@@ -22,34 +22,17 @@ export default function Home() {
               I grew up in the forest-- at times struggling to adapt to personhood, asking questions, and trying too hard. 
               I am a software engineer by trade, based in Bellingham, WA. Curiosity drives my development.
               I enjoy simple solutions to complex problems. I often find myself over-engineering something until I get frustrated, 
-              walking away for the evening only to come back in the morning and resolve the problem with a few key strokes.
+              walking away for the evening only to come back in the morning and resolve the problem with just a few key strokes.
+            </p>
+            <br/>
+            <h2><strong>This site is very much a work in progress. June 16, 2023</strong></h2>
+            <br/>
+            <p>
+              
             </p>
             <p></p>
           </section>
         </div>          
-        
-
-        {/* <section className='w-1/3 text-end'> */}
-        {/*   <nav> */}
-        {/*     <ul className={'flex flex-col list-none justify-evenly align-middle m-0 p-0 gap-y-12 pr-4'}> */}
-        {/*       <li> */}
-        {/*         <Link  */}
-        {/*           href={'/etc/cv'}  */}
-        {/*           alt='Resume and CV' */}
-        {/*           className={'px-3 py-1 rounded hover:bg-stone-400'} */}
-        {/*         >cv</Link> */}
-        {/*       </li> */}
-        {/*       <li> */}
-        {/*         <Link  */}
-        {/*           href={'/projects'}  */}
-        {/*           alt='projects' */}
-        {/*           className={'px-3 py-1 rounded hover:bg-stone-400'} */}
-        {/*         >projects</Link> */}
-        {/*       </li> */}
-        {/*       <li></li> */}
-        {/*     </ul> */}
-        {/*   </nav> */}
-        {/* </section> */}
       </article>
     </main>
   )

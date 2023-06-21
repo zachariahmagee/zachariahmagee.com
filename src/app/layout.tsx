@@ -16,6 +16,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.4.0/styles/github-dark.min.css">
+      </head>
       <body className={inter.className}>
         <header className={'h-16 bg-slate-500 flex flex-row w-screen align-middle p-5'}>
           <div className={'flex flex-row w-screen align-middle text-stone-200'}>
