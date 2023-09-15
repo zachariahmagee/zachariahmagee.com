@@ -19,7 +19,7 @@ export default function Home() {
             <h1><strong>My name is Zach. This is my site.</strong></h1> 
             <br/>
             <p> 
-            I've built out this site to be a place where I can work on my web development skills. The time I've had to work on this site has been limited, but I'm intending to continue adding to it over time.
+            I have built out this site to be a place where I can work on my web development skills. The time I've had to work on this site has been limited, but I am intending to continue adding to it over time.
             </p>
             <br/>
             <h2><strong>This site is very much a work in progress. September 13, 2023</strong></h2>
